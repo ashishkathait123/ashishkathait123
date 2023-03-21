@@ -3,7 +3,9 @@
 
 <img align="right" src="https://th.bing.com/th/id/OIP.1ZnqYMjAyEWmh3Za9b_KdgHaHC?pid=ImgDet&w=192&h=183&c=7&dpr=1.5"></img>
 - 🌱 I’m currently learning **full stack web development, python, java**
-
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?text=Hey Everyone!🕹️&animation=fadeIn&type=waving&color=gradient&height=100"/>
+</p
 - 📫 How to reach me **ahsish2kathait@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
