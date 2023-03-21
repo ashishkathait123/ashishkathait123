@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ashish Kathait</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
+<img align="right" src="https://th.bing.com/th/id/OIP.1ZnqYMjAyEWmh3Za9b_KdgHaHC?pid=ImgDet&w=192&h=183&c=7&dpr=1.5"></img>
 - 🌱 I’m currently learning **full stack web development, python, java**
 
 - 📫 How to reach me **ahsish2kathait@gmail.com**
