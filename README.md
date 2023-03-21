@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Ashish Kathait</h1>
-
-<img src="https://camo.githubusercontent.com/d62a4bc4d1293389e3d3181fb2f5c30c84b7a3be6c53cc82f3f9c0de559bef19/68747470733a2f2f692e67697068792e636f6d2f6d656469612f7132313747556e664b416d4a6c46636a42582f67697068792e77656270">
+<img align="center"  src="https://camo.githubusercontent.com/2d97fc6917462d31a885631ec887824db6974df46eccea2ae131ff3ece798a0a/68747470733a2f2f63617073756c652d72656e6465722e76657263656c2e6170702f6170693f747970653d776176696e6726636f6c6f723d6772616469656e7426746578743d48656c6c6f21266865696768743d3130302673656374696f6e3d686561646572">
+<img align=" center"  src="https://camo.githubusercontent.com/d62a4bc4d1293389e3d3181fb2f5c30c84b7a3be6c53cc82f3f9c0de559bef19/68747470733a2f2f692e67697068792e636f6d2f6d656469612f7132313747556e664b416d4a6c46636a42582f67697068792e77656270">
 <h3 align="center">A passionate frontend developer from India</h3>
 
-<img align="right" src="https://th.bing.com/th/id/OIP.1ZnqYMjAyEWmh3Za9b_KdgHaHC?pid=ImgDet&w=192&h=183&c=7&dpr=1.5"></img>
+>
 - 🌱 I’m currently learning **full stack web development, python, java**
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?text=Hey Everyone!🕹️&animation=fadeIn&type=waving&color=gradient&height=100"/>
