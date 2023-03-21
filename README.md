@@ -9,7 +9,7 @@
 <p align="left">
 <a href="https://fb.com/ashu singh thakur kathait" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ashu singh thakur kathait" height="30" width="40" /></a>
   
- < imag src ="https://th.bing.com/th/id/OIP.xlvgK6klar_15bdGF5jOWwHaJB?pid=ImgDet&w=4361&h=5315&rs=1"</img>
+ < imag src ="https://th.bing.com/th/id/OIP.1ZnqYMjAyEWmh3Za9b_KdgHaHC?pid=ImgDet&w=192&h=183&c=7&dpr=1.5"</img>
 <a href="https://instagram.com/ashu13254" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ashu13254" height="30" width="40" /></a>
 </p>
 
